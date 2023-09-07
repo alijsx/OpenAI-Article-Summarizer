@@ -27,7 +27,7 @@ export const Footer = () => {
           <Link href={'#'}></Link>
           <Link href={'#'}></Link>
         </Stack>
-        <Text>   © Copyright {new Date().getFullYear()} <a href="https://aliaalam.surge.sh/">Ali Aalam</a></Text>
+        <Text>   © Copyright {new Date().getFullYear()} <a href="https://aliaalam.xyz/">Ali Aalam</a></Text>
       </Container>
     </Box>
   )
